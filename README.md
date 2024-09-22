@@ -67,7 +67,7 @@ Contributions are welcome! If you have suggestions for new features or improveme
 ###### 📄 License
 This project is licensed under the MIT License.See the LICENSE file for details.
 
-####### 📬 Contact
+###### 📬 Contact
 For questions or feedback, feel free to reach out to:
 snehasinghania005@gmail.com
 
