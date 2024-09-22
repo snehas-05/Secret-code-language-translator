@@ -65,7 +65,7 @@ Output: "Hello"
 Contributions are welcome! If you have suggestions for new features or improvements, please fork the repository and submit a pull request. For bug reports or feature requests, open an issue.
 
 ###### 📄 License
-This project is licensed under the MIT License.See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ###### 📬 Contact
 For questions or feedback, feel free to reach out to:
